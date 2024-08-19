@@ -6,3 +6,5 @@ This repository tries to be a more "real world" like example of LFS use, with co
 - able to edit and compare image;
 - rename;
 
+new line
+
